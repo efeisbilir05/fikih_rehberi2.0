@@ -1,0 +1,402 @@
+{
+  "kitap_adi": "Delilleriyle Hanefi Fıkhı",
+  "yazar": "Esad Muhammed Sâid es-Sâğircî",
+  "icerik": [
+    {
+  "bolum": "TAHARET (TEMİZLİK VE ARINMA)",
+  "sayfa": 39,
+  "alt_konular": [
+    {
+      "baslik": "Abdestin Teknik Detayları ve Sınırları",
+      "maddeler": [
+        "Yüzü Yıkamak: Alında saçın bittiği yerden çene altına ve iki kulak yumuşağına kadar olan bölgedir. Sık sakalı olanlar sakalın yüzeyini yıkar, seyrek sakalda suyun deriye ulaşması farzdır.",
+        "Kolları Yıkamak: Dirsekler yıkamaya dahildir. Tırnak aralarındaki hamur, boya gibi su geçirmeyen maddelerin temizlenmesi abdestin sıhhati için şarttır.",
+        "Başı Meshetmek: Başın en az dörtte birini (bir el ayası kadar) ıslak elle meshetmek farzdır. Meshin hükmü, Maide Suresi 6. ayet ile sabittir.",
+        "Ayakları Yıkamak: Topuk kemikleriyle beraber yıkanır. Parmak aralarının (hilalleme) ıslanmasına dikkat edilmelidir."
+      ]
+    },
+    {
+      "baslik": "Suların Hükmî Durumları",
+      "maddeler": [
+        "Mutlak Sular: Yaratılışındaki saflığı koruyan, temiz ve temizleyici olan sular (Deniz, nehir, kuyu).",
+        "Müstamel (Kullanılmış) Su: Maddi pisliği gidermek için değil, hükmî kirliliği (abdestsizliği) gidermek için kullanılan sudur. Kendisi temizdir ancak tekrar abdest veya gusül alınamaz.",
+        "Mukayyet Su: İçine temiz bir madde karışarak akıcılığını veya tabiatını kaybeden sudur (Karpuz suyu, gül suyu). Bunlarla abdest caiz değildir.",
+        "Artık Sular: Kedinin artığı 'mekruh' (kaçınılması iyi olan), köpek ve domuzun artığı 'necis' (pis) kabul edilir."
+      ]
+    },
+    {
+      "baslik": "Necaset-i Galîze ve Hafîfe (Ağır ve Hafif Pislikler)",
+      "maddeler": [
+        "Galîze (Ağır): Kan, idrar, şarap, domuz eti. Katı ise 4 gramdan (1 dirhem), sıvı ise el ayasından fazlası namaza engeldir.",
+        "Hafîfe (Hafif): At ve eti yenen davarların idrarı. Elbisenin dörtte birinden azına bulaşmışsa namaza engel teşkil etmez.",
+        "İstinka ve İstibra: Küçük abdestten sonra idrar sızıntısının tamamen kesildiğine emin olmak (yürümek, öksürmek vb.) erkekler için vaciptir."
+      ]
+    },
+    {
+      "baslik": "Guslün İncelikleri",
+      "maddeler": [
+        "Mazmaza (Ağıza Su Verme): Diş aralarında suyun ulaşmasına engel yemek artığı kalmamalıdır.",
+        "İstinşak (Buruna Su Verme): Burun kemiğine kadar suyun ulaştırılması Hanefi fıkhında farzdır.",
+        "Tüm Bedeni Yıkamak: Küpe deliği, göbek çukuru ve örülmemiş saçın diplerinin ıslanması zorunludur."
+      ]
+    }
+  ]
+},
+  {
+  "bolum": "NAMAZ (KİTÂBU'S-SALÂT)",
+  "sayfa": 139,
+  "alt_konular": [
+    {
+      "baslik": "Namaz Vakitleri ve Kerahat Saatleri",
+      "maddeler": [
+        "Vakitlerin Sınırı: Sabah namazı vakti imsak ile başlar, güneş doğana kadar sürer. Öğle vakti zevalden başlar, her şeyin gölgesi kendisinin iki katı (Asr-ı Sânî) olana kadar devam eder.",
+        "Kerahat Vakitleri: Güneş doğarken (ilk 45 dk), tam tepedeyken (istikva) ve batarken (akşam ezanına 45 dk kala) namaz kılmak tahrimen mekruhtur.",
+        "Ezan ve Kamet: Ezan, namaz vaktinin girdiğini bildiren şer'i bir ilandır. Kamet ise cemaatle namaza başlanacağını bildirir ve ezandan daha hızlı okunur."
+      ]
+    },
+    {
+      "baslik": "Rükünlerin Teknik Detayları",
+      "maddeler": [
+        "Kıyam (Ayakta Durma): Farz namazlarda gücü yeten için şarttır. Ayakların arası dört parmak açıklığında tutulur.",
+        "Kıraat: Farz namazların ilk iki rekatında, vitir ve sünnetlerin her rekatında Kur'an okumak farzdır. En az bir uzun ayet veya üç kısa ayet okunmalıdır.",
+        "Rükû ve Sücud: Rükûda sırt dümdüz tutulur. Secdede yedi azanın (alın, iki el, iki diz ve iki ayak parmakları) yere değmesi gerekir. Ayak parmaklarının kıbleye dönük olması ve yere değmesi sıhhat şartıdır.",
+        "Ta'dîl-i Erkân: Rükûdan sonra tam doğrulmak (kavme) ve iki secde arasında tam oturmak (celse) Hanefi fıkhında vacip, ihmali ise namazın iadesini gerektirecek kadar mühimdir."
+      ]
+    },
+    {
+      "baslik": "Namazın Vacipleri ve Sehiv Secdesi",
+      "maddeler": [
+        "Vacipler: Fatiha okumak, zamm-ı sure eklemek, oturuşlarda Tahiyyat okumak ve selam vermek.",
+        "Sehiv Secdesi Nedir?: Namazın vaciplerinden birini sehven (yanılarak) terk etmek veya geciktirmek durumunda, son oturuşta selamdan sonra yapılan iki secdedir.",
+        "Sehiv Secdesi Gerektiren Durumlar: Fatiha'yı unutmak, rekat sayısında şüphe etmek, ilk oturuşu unutmak veya rükünlerin sırasını karıştırmak."
+      ]
+    },
+    {
+      "baslik": "Cemaatle Namaz ve İmamet",
+      "maddeler": [
+        "İmamet Şartları: İmamın müslüman, akil, baliğ, erkek olması ve namazın sıhhatine engel bir özrünün bulunmaması gerekir.",
+        "Lâhik ve Mesbuk: Namazın başından sonuna yetişemeyen (mesbuk), imam selam verdikten sonra kalkıp yetişemediği kısımları kendi kılar."
+      ]
+    }
+  ]
+}, 
+    {
+  "bolum": "ZEKAT (KİTÂBU'Z-ZEKÂT)",
+  "sayfa": 471,
+  "alt_konular": [
+    {
+      "baslik": "Nisap ve Hacet-i Asliye (Asli İhtiyaçlar)",
+      "maddeler": [
+        "Hacet-i Asliye: Kişinin hayatını idame ettirmesi için gerekli olan; evi, ev eşyası, binek aracı, mesleki aletleri ve bir yıllık mutfak masrafı zekata tabi değildir.",
+        "Nisap Sınırı: Temel ihtiyaçlar ve borçlar çıktıktan sonra elde kalan 'artıcı' nitelikteki malın 80.18 gram altın değerine ulaşmasıdır.",
+        "Havl-i Havelan: Zekatın farz olması için nisap miktarındaki malın üzerinden bir kameri yılın geçmesi gerekir. Yıl içindeki artış ve eksilişler, yıl sonundaki toplam miktarı etkilemez (yıl sonu nisap varsa zekat verilir)."
+      ]
+    },
+    {
+      "baslik": "Ticaret Malları ve Altın/Gümüş Hesabı",
+      "maddeler": [
+        "Ticaret Malları: Kar amacıyla elde tutulan her türlü taşınır/taşınmaz mal (ev, arsa, tekstil vb.) piyasa değeri üzerinden hesaplanır.",
+        "Altın ve Ziynet: Hanefi fıkhına göre kadınların kullandığı ziynet eşyaları (bilezik, kolye vb.) nisap miktarına dahil edilir ve zekatı verilir.",
+        "Alacaklar: Tahsili kesin olan alacakların (kuvvetli alacak) zekatı, tahsil edildiğinde geçmiş yılları da kapsayacak şekilde verilir. Tahsili şüpheli alacaklar için tahsil edilene kadar zekat gerekmez."
+      ]
+    },
+    {
+      "baslik": "Toprak Ürünleri (Öşür) ve Hayvanlar",
+      "maddeler": [
+        "Öşür Oranları: Emek ve masraf (mazot, gübre, sulama) harcanmadan yetişen ürünlerde 1/10; masraf edilerek yetişen ürünlerde 1/20 oranında zekat verilir.",
+        "Sâime Hayvanlar: Yılın yarısından fazlasını meralarda otlayarak geçiren hayvanlar zekata tabidir. Ahırda beslenen (besi) hayvanları ticaret malı hükmündedir.",
+        "Madenler ve Defineler: Yer altından çıkarılan madenlerde (beşte bir) 1/5 oranında devlet hakkı (humus) ödenir."
+      ]
+    },
+    {
+      "baslik": "Zekatın Verilemeyeceği Yerler (İstisnalar)",
+      "maddeler": [
+        "Usûl ve Fürû: Kişi kendi annesine, babasına, dede ve ninesine (yukarıya doğru) ve çocuklarına, torunlarına (aşağıya doğru) zekat veremez.",
+        "Eşler Arası: Karı-koca birbirine zekat veremez.",
+        "Gayrimüslimler: Zekat sadece müslüman fakirlere verilir (Sadaka-i cariye ve bağışlar hariç).",
+        "Zenginler: Nisap miktarı mala sahip olanlara ve onların ergen olmayan çocuklarına zekat verilmez."
+      ]
+    }
+  ]
+},
+    {
+  "bolum": "ORUÇ (KİTÂBU'S-SIYÂM)",
+  "sayfa": 589,
+  "alt_konular": [
+    {
+      "baslik": "İmsak, İftar ve Niyetin Vakti",
+      "maddeler": [
+        "İmsak Vakti: Fecr-i Sadık'ın (tan yerinin ağarması) başlamasıyla yeme-içmenin kesilmesidir. Takvimlerdeki imsak saati, bu sınırın başladığı andır.",
+        "Niyetin Zamanı: Ramazan orucu, tayin edilmiş adak ve nafile oruçlar için kuşluk vaktine (istiva) kadar niyet edilebilir. Kaza ve kefaret oruçları için ise imsaktan önce niyet etmek şarttır.",
+        "İftar ve Acele Etmek: Akşam ezanıyla birlikte vakit girdiği gibi iftar etmek sünnettir. Bulutlu havalarda vaktin girdiğine emin olmadan iftar etmek orucu riske atar."
+      ]
+    },
+    {
+      "baslik": "Kaza ve Kefaret Gerektiren İnce Haller",
+      "maddeler": [
+        "Kefaret (60+1): Oruç olduğunu bilerek, kasten bir gıda veya gıda özelliği taşıyan maddeyi tüketmek ya da cinsel ilişkide bulunmak kefareti gerektirir.",
+        "Sadece Kaza: Unutarak yediğini sanıp bilerek devam etmek, burnuna ilaç çekmek, ağzına giren yağmur suyunu istemeyerek yutmak veya hataen (abdest alırken su kaçması gibi) bir şey yemek sadece kaza gerektirir.",
+        "Müfsit Olmayanlar (Bozmayanlar): Unutarak yemek/içmek, göze sürme çekmek, kan aldırmak (hacamat), misvak kullanmak ve elde olmayan duman/toz solumak orucu bozmaz."
+      ]
+    },
+    {
+      "baslik": "Modern Tıbbi Durumlar ve Oruç",
+      "maddeler": [
+        "İğne ve Serum: Besleyici özelliği olan serumlar veya vitamin iğneleri ihtiyaten kaza gerektirirken, tedavi amaçlı yapılan ağrı kesici iğneler (mideden boğaza bir yol açılmadığı sürece) bazı görüşlere göre bozmaz, ancak Hanefi fıkhında vücuda nüfuz eden her şey dikkatle incelenir.",
+        "Astım Spreyi ve Göz Damlası: Boğaza ulaşmayan ve mideye inmeyen spreylerin orucu bozmayacağı yönünde fetvalar olsa da, klasik Hanefi metinlerinde 'vücudun içine dahil olan her şey' ilkesi esastır.",
+        "Diş Fırçalamak: Macun boğaza kaçmadığı sürece oruç bozulmaz, ancak macunun tadının boğaza ulaşması mekruhtur."
+      ]
+    },
+    {
+      "baslik": "Fidye ve Iskat-ı Savm",
+      "maddeler": [
+        "Fidye: Yaşlılık veya iyileşme umudu olmayan bir hastalık sebebiyle oruç tutamayanların, her gün için bir fakiri doyuracak kadar ödediği bedeldir.",
+        "Iskat-ı Savm: Ölen bir müminin hayattayken kaza edemediği oruç borçları için malından fidye verilmesi vasiyetidir."
+      ]
+    }
+  ]
+},
+   {
+  "bolum": "HAC (KİTÂBU'L-HAC)",
+  "sayfa": 715,
+  "alt_konular": [
+    {
+      "baslik": "Haccın Yapılış Türleri",
+      "maddeler": [
+        "Hacc-ı İfrad: Sadece hac niyetiyle ihrama girilir, umre yapılmaz. Kurban kesmek vacip değildir.",
+        "Hacc-ı Temettu: Aynı mevsimde önce umre yapıp ihramdan çıkmak, sonra hac için yeniden ihrama girmek. Şükür kurbanı vaciptir.",
+        "Hacc-ı Kıran: Umre ve hacca birlikte niyet edip, her ikisini de aynı ihramla tamamlamak. En faziletli ama en meşakkatli türdür; kurban vaciptir."
+      ]
+    },
+    {
+      "baslik": "İhram Yasakları ve Cezaları (Cinayetler)",
+      "maddeler": [
+        "Bedene Ait Yasaklar: Saç/sakal kesmek, tırnak kesmek, koku sürünmek. Bunların ihlali, ihlalin miktarına göre 'dem' (koyun/keçi kesmek) veya sadaka gerektirir.",
+        "Giyim Yasakları: Erkekler için dikişli elbise giymek, başı örtmek ve topukları kapalı ayakkabı giymek yasaktır.",
+        "Harem Bölgesi Yasakları: Mekke'nin 'Harem' sınırları içindeki bitkileri koparmak veya av hayvanlarına zarar vermek, ihramlı olmasa dahi herkes için yasaktır."
+      ]
+    },
+    {
+      "baslik": "Tavaf Çeşitleri ve S'ay",
+      "maddeler": [
+        "Kudüm Tavafı: Mekke'ye varıldığında yapılan ilk 'hoş geldin' tavafıdır (Sünnet).",
+        "Ziyaret Tavafı: Haccın rüknüdür, bu yapılmadan hac tamamlanmış olmaz. Arafat vakfesinden sonra yapılır.",
+        "Veda Tavafı: Harem bölgesinden ayrılmadan önce yapılan son görevdir (Vacip).",
+        "S'ay: Safa ve Merve tepeleri arasında 4 gidiş 3 geliş yapmak. İhramlıyken ve tavaftan sonra yapılması esastır."
+      ]
+    },
+    {
+      "baslik": "Arafat, Müzdelife ve Mina Süreci",
+      "maddeler": [
+        "Arafat Vakfesi: Arife günü öğleden bayram sabahına kadar olan sürede kısa bir an dahi olsa Arafat sınırlarında bulunmak farzdır.",
+        "Müzdelife Vakfesi: Bayram sabahı şafak vaktinde orada bulunmak ve taşları toplamak vaciptir.",
+        "Cemerât (Taşlama): Bayramın 1, 2 ve 3. günleri Mina'da şeytan taşlanır. Taşların her birini 'Allahu Ekber' diyerek atmak sünnettir."
+      ]
+    }
+  ]
+},
+    {
+  "bolum": "MUAMELAT (TİCARİ HAYAT)",
+  "sayfa": 845,
+  "alt_konular": [
+    {
+      "baslik": "Akitlerin (Sözleşmelerin) Kuruluşu ve Geçersizlik Halleri",
+      "maddeler": [
+        "İcap ve Kabul: Akdin kurulması için tarafların karşılıklı rızalarını beyan etmeleridir. 'Sattım' ve 'Aldım' gibi geçmiş zaman kipi kullanımı hukuki kesinlik sağlar.",
+        "Fâsid ve Bâtıl Akitler: Temel rükünleri eksik olan akit 'bâtıl' (geçersiz), rükünleri tam ama vasfında hata olan akit 'fâsid' (düzeltilmesi gereken) kabul edilir.",
+        "Muhayyerlik (Vazgeçme Hakkı): Alıcının malı gördüğünde (Gürme Muhayyerliği) veya malda bir kusur çıktığında (Ayıp Muhayyerliği) akdi tek taraflı feshetme yetkisi vardır."
+      ]
+    },
+    {
+      "baslik": "Riba (Faiz) ve Modern Ticari Yasaklar",
+      "maddeler": [
+        "Riba-i Nesîe: Borç verilen bir malın veya paranın geri ödenmesinde, vade karşılığında alınan fazlalıktır.",
+        "Riba-i Fadl: Altın, gümüş, buğday, arpa, hurma ve tuz gibi aynı cinsten malların birbiriyle peşin takasında ortaya çıkan miktar farkıdır.",
+        "Gurer (Bilinmezlik): Balığın henüz tutulmadan, meyvenin henüz belirmeden satılması gibi belirsizlik içeren akitler yasaktır.",
+        "Bey'u'l-İyne: Bir malı vadeli satıp, peşin ve daha düşük fiyatla geri almak gibi faize kılıf uydurulan işlemler Hanefi fıkhında yasaktır."
+      ]
+    },
+    {
+      "baslik": "Özel Ticaret Türleri: Selem ve İstisna'",
+      "maddeler": [
+        "Selem Akdi: Parasının peşin ödenip, malın ileriki bir tarihte teslim alınmasıdır (Tarım ürünlerinde yaygındır). Malın cinsi, miktarı ve teslim vakti net olmalıdır.",
+        "İstisna' (Eser Sözleşmesi): Bir zanaatkara veya fabrikaya belli bir vasıfta mal sipariş etmektir. Günümüzdeki inşaat ve imalat sözleşmelerinin temelidir.",
+        "Sarf Akdi: Altın ve gümüşün (veya dövizlerin) birbiriyle değiştirilmesidir. Bedellerin meclisten ayrılmadan el değiştirmesi (peşin olması) şarttır."
+      ]
+    },
+    {
+      "baslik": "Kâr Paylaşımı ve Ortaklık (Mudârebe)",
+      "maddeler": [
+        "Mudârebe: Bir taraftan sermaye (Rabbü'l-mal), diğer taraftan emek (Mudarib) verilerek kurulan ortaklıktır. Zarar kural olarak sermayeden gider; emekçi ise emeğini kaybetmiş olur.",
+        "Kâr Dağılımı: Kârın miktar olarak değil (Örn: 1000 TL), oran olarak (Örn: %30-%70) belirlenmesi şarttır."
+      ]
+    }
+  ]
+},
+    {
+  "bolum": "NİKÂH VE AİLE HAYATI",
+  "sayfa": 980,
+  "alt_konular": [
+    {
+      "baslik": "Nikâhın Şartları ve Velayet",
+      "maddeler": [
+        "İnayet ve Şahitlik: Nikâhın gizli kalmaması esastır. En az iki erkek veya bir erkek iki kadın adil müslüman şahidin mecliste bulunması ve irade beyanlarını (icap-kabul) bizzat işitmeleri şarttır.",
+        "Kefâet (Denklik): Hanefi fıkhında evlenecek eşler arasında dindarlık, nesep ve mali durum gibi konularda bir dengin gözetilmesi, aile huzuru ve süreklilik için önem arz eder.",
+        "Vekâlet: Kişi, nikâh akdini bizzat yapabileceği gibi, bir vekil aracılığıyla da yürütebilir. Vekilin yetki sınırları akit sırasında belirtilmelidir."
+      ]
+    },
+    {
+      "baslik": "Mehir Çeşitleri ve Kadının Hakları",
+      "maddeler": [
+        "Mehr-i Muaccel: Nikâh anında veya hemen sonrasında peşin olarak ödenen mehirdir.",
+        "Mehr-i Müeccel: Ödenmesi ileri bir tarihe veya ayrılık (ölüm/boşanma) vaktine ertelenen mehirdir. Bu miktar kadının güvencesidir.",
+        "Mehr-i Misil: Nikâh sırasında mehir belirlenmemişse, kadının baba tarafından akrabası olan ve benzer vasıflara sahip kadınların aldığı mehir miktarı esas alınır.",
+        "Nafaka: Evlilik devam ettiği sürece kadının yeme, içme, giyim ve barınma masraflarının koca tarafından karşılanması fıkhi bir zorunluluktur."
+      ]
+    },
+    {
+      "baslik": "Evlilik Engelleri ve Süt Hısımlığı",
+      "maddeler": [
+        "Süt Hısımlığı (Radâ): Bir çocuğun iki yaşını doldurmadan bir kadından süt emmesiyle oluşur. Kan bağıyla haram olanlar (kardeş, hala, teyze vb.), süt yoluyla da haram olur.",
+        "Sıhrî Hısımlık: Evlilik yoluyla oluşan engellerdir. Örneğin kişi, boşansa dahi kayınvalidesi ile evlenemez.",
+        "İddet Beklemek: Boşanan (3 hayız süresi) veya eşi vefat eden (4 ay 10 gün) kadının, nesebin karışmaması ve yas tutma amacıyla beklemesi gereken süredir."
+      ]
+    },
+    {
+      "baslik": "Boşanma (Talak) ve Çeşitleri",
+      "maddeler": [
+        "Talak Yetkisi: Prensip olarak koca tarafındadır ancak kadın, nikâh sırasında 'tefviz-i talak' yetkisi almışsa kendisi de boşanabilir.",
+        "Ric'î ve Bâin Talak: Ric'î talakta evlilik tamamen bitmemiştir, iddet içinde dönülebilir. Bâin talakta ise evlilik sona erer, yeniden kurulması için yeni bir nikâh gerekir.",
+        "Hul' (Muhâlea): Kadının bir bedel (genellikle mehir iadesi) karşılığında kocasıyla anlaşarak boşanmasıdır."
+      ]
+    }
+  ]
+},
+    {
+  "bolum": "FERÂİZ (MİRAS HUKUKU)",
+  "sayfa": 1150,
+  "alt_konular": [
+    {
+      "baslik": "Miras Payları (Hisseler) ve Sahipleri",
+      "maddeler": [
+        "Eşlerin Payı: Koca, çocuk varsa 1/4, çocuk yoksa 1/2 alır. Hanım, çocuk varsa 1/8, çocuk yoksa 1/4 alır.",
+        "Anne ve Babanın Payı: Çocuk veya torun varsa her biri 1/6 alır. Anne, çocuk ve kardeş yoksa 1/3 alır.",
+        "Kız Evladın Payı: Tek ise 1/2, birden fazla iseler 2/3'ü paylaşırlar. Erkek kardeşleri varsa 'erkeğe kadının iki katı' (2:1) kuralı uygulanır.",
+        "Ashâbu'l-Ferâiz: Kur'an'da payları net şekilde belirtilen 12 gruptur (Baba, dede, anne, nine, eşler, kızlar vb.)."
+      ]
+    },
+    {
+      "baslik": "Hacb (Mirasın Engellenmesi) Kuralları",
+      "maddeler": [
+        "Hacb-ı Hirman: Daha yakın bir akrabanın varlığı sebebiyle uzaktakinin mirastan tamamen mahrum kalmasıdır. Örn: Oğul varken torun, baba varken dede miras alamaz.",
+        "Hacb-ı Noksan: Bir varisin gelmesiyle diğerinin payının azalmasıdır. Örn: Çocuk yokken 1/4 alan eşin, çocuk gelince payının 1/8'e düşmesi.",
+        "Miras Engelleri: Katil (murisini öldüren), din farkı (müslüman ile gayrimüslim arası) ve kölelik mirasa engeldir."
+      ]
+    },
+    {
+      "baslik": "İleri Hesaplama: Avliye ve Reddiye",
+      "maddeler": [
+        "Avliye: Payların toplamının paydadan fazla çıkması durumunda (Örn: Paylar toplamı 13/12 ise), paydanın artırılarak payların orantılı şekilde küçültülmesidir.",
+        "Reddiye: Paylar dağıtıldıktan sonra artan bir miktar kalırsa ve asabe (yakın erkek akraba) yoksa, bu artan malın eşler hariç diğer varislere payları oranında geri verilmesidir.",
+        "Vasiyet Sınırı: Bir kimse malının en fazla 1/3'ü üzerinde vasiyet hakkına sahiptir. Kalan 2/3 otomatik olarak ferâiz hükümlerine tabidir."
+      ]
+    }
+  ]
+},
+    {
+  "bolum": "UKUBÂT (CEZA HUKUKU)",
+  "sayfa": 1250,
+  "alt_konular": [
+    {
+      "baslik": "Kısas ve Diyet Hukuku",
+      "maddeler": [
+        "Kısasın Şartları: Kasten öldürme veya yaralamada uygulanır. Öldürülenin velisi (varisleri) kısas yerine diyeti veya affetmeyi seçebilir.",
+        "Diyet-i Kâmile (Tam Diyet): Hataen öldürme durumunda ödenen bedeldir. Hanefi fıkhında bunun miktarı 100 deve veya karşılığı olan altın/gümüş değeridir.",
+        "Müessir Fiiller: Uzuv kayıplarında kısas mümkün değilse (Örn: Gözün görme yetisini yitirmesi ama fiziken durması), fıkıh kitaplarında belirlenen oranlarda 'erş' (tazminat) ödenir."
+      ]
+    },
+    {
+      "baslik": "Had Cezaları ve İspat Şartları",
+      "maddeler": [
+        "Şüphe ile Haddin Düşmesi: 'Şüphe ile hadleri düşürünüz' hadisi uyarınca, ispatta en ufak bir belirsizlik varsa ağır cezalar uygulanmaz, yerine 'Ta'zir' cezası verilir.",
+        "Zina Haddi: Evli olanlar için 'recm', bekar olanlar için '100 değnek' (celde) cezasıdır. İspatı için dört adil erkek şahidin fiili bizzat görmesi veya kişinin dört ayrı mecliste ikrarı şarttır. Şüphe durumunda had düşer.",
+        "Kazf (İftira) Haddi: İffetli birine zina iftirası atmanın cezası 80 değnektir. Bu kişinin şahitliği ebediyen kabul edilmez (Kur'an-ı Kerim, Nur Suresi 4. Ayet).",
+        "Sirkat (Hırsızlık) Haddi: Korunan bir yerden (hırz), nisap miktarındaki (Hanefi'de 10 dirhem gümüş değerindeki) malın gizlice çalınmasıdır. Cezası sağ elin kesilmesidir; ancak açlık, zaruret veya şüpheli mülkiyet durumunda uygulanmaz.",
+        "Şürb (İçki İçme) Haddi: Alkollü bir içecek içen kimseye uygulanan 80 değnek cezasıdır. Cezanın uygulanması için kişinin sarhoş halde yakalanması veya şahitlerin huzurunda ikrarı gerekir.",
+        "Hirâbe (Eşkıyalık/Yol Kesme) Haddi: Silah zoruyla yol kesip mal gasbetmek veya cana kıymaktır. Suçun işleniş şekline göre (sadece mal alma, sadece öldürme veya her ikisi) sürgün, el-ayak çapraz kesilmesi veya idam cezaları öngörülür.",
+        "İrtidat (Dinden Dönme) Haddi: Müslüman birinin dinden dönmesidir. Hanefi fıkhında bu kişiye üç gün düşünme süresi verilir ve tövbeye davet edilir; dönmezse kamu düzenini koruma gerekçesiyle cezalandırılır.",
+        "Bağy (İsyan) Haddi: Meşru devlet otoritesine silahla ayaklanmaktır. İsyancılarla önce müzakere edilir, vazgeçmezlerse kamu güvenliği için müdahale edilir."
+      ]
+    },
+    {
+      "baslik": "Ta'zir Cezaları",
+      "maddeler": [
+        "Ta'zir Tanımı: Had ve kısas dışında kalan, miktarı ve türü devletin (hakimin) takdirine bırakılan ıslah edici cezalardır.",
+        "Uygulama Alanı: Kamu düzenini bozan, yalan şahitlik yapan veya başkasının hakkını gasp edenlere, suçun ağırlığına göre kınama, hapis veya mali cezalar verilebilir."
+      ]
+    }
+  ]
+},
+    {
+  "bolum": "KERAHET VE İSTİHSAN (GÜNLÜK HAYAT ADABI)",
+  "sayfa": 1320,
+  "alt_konular": [
+    {
+      "baslik": "Yeme-İçme ve Hayvan Kesimi İncelikleri",
+      "maddeler": [
+        "Etleri Helal Olanlar: Geviş getiren ve çift tırnaklı olan otobur hayvanlar, tavuk, kaz, ördek gibi kümes hayvanları ve deniz ürünlerinden sadece balık çeşitleri helaldir.",
+        "Zebih (Kesim): Kesilecek hayvanın yemek ve nefes borusu ile iki şah damarının kesilmesi esastır. Besmele kasten terk edilirse Hanefi fıkhına göre o et yenmez.",
+        "Haram Kısımlar: Eti yenen bir hayvanın; akmış kanı, idrar torbası, bezeleri, safra kesesi, cinsel organları gibi yedi bölgesi helal değildir."
+      ]
+    },
+    {
+      "baslik": "Giyim, Süsleme ve Avret Sınırları",
+      "maddeler": [
+        "Erkekler İçin Sınır: Göbek ile diz kapağı arası (diz kapağı dahil) avrettir. İpek kumaş ve altın yüzük kullanmak erkeklere tahrimen mekruhtur.",
+        "Kadınlar İçin Sınır: El, yüz ve ayaklar hariç tüm beden avrettir. Yabancı erkeklerin yanında bu sınırların korunması farzdır.",
+        "Gümüş ve Takı: Erkeklerin sadece bir miskalden (yaklaşık 4.8 gr) az ağırlıkta gümüş yüzük takmasına izin verilmiştir."
+      ]
+    },
+    {
+      "baslik": "Sosyal İlişkiler ve Ev Adabı",
+      "maddeler": [
+        "İstizan (İzin İsteme): Bir eve girerken üç defa izin istemek sünnettir. Kapı önünde içerisi görünmeyecek şekilde durulmalıdır.",
+        "Selamlaşma: Selam vermek sünnet, almak farzdır. Gayrimüslimlere ve günah işleyenlere (o esnada) selam verilmesi kerahetle karşılanmıştır.",
+        "Ticari Kerahetler: Pazarlık üzerine pazarlık yapmak, müşteriyi kızıştırmak için yalandan fiyat artırmak (neceş) mekruhtur."
+      ]
+    }
+  ]
+},
+    {
+  "bolum": "YARGILAMA VE ŞAHİTLİK - TEFERRUATLI",
+  "sayfa": 1380,
+  "alt_konular": [
+    {
+      "baslik": "Kadının (Hâkimin) Vasıfları ve Adabı",
+      "maddeler": [
+        "Liyakat: Kadı; müslüman, akıllı, baliğ, hür ve fıkıh hükümlerini (içtihat derecesinde) bilen bir kimse olmalıdır.",
+        "Tarafsızlık: Hâkim, mahkemede taraflara eşit davranmak zorundadır. Bakışında, hitabında ve oturtulacağı yer hususunda birini diğerinden üstün tutamaz.",
+        "Hediye Yasağı: Kadı, davası görülen taraflardan veya genel olarak halktan (eskiden beri süregelen dostluklar hariç) hediye alamaz; bu rüşvet hükmündedir.",
+        "Hüküm Verme Şartları: Kadı; aşırı açlık, öfke, uykusuzluk veya hüzün gibi sağlıklı düşünmeyi engelleyen durumlarda hüküm vermemelidir."
+      ]
+    },
+    {
+      "baslik": "Şahitlik ve Kabul Şartları",
+      "maddeler": [
+        "Adalet ve Güvenilirlik: Şahidin büyük günahlardan kaçınan ve 'mürüvvet' sahibi (toplumda saygın) biri olması şarttır.",
+        "Şahitliğin Reddedildiği Haller: Kişinin; babası, dedesi, çocukları, torunları ve eşi lehine şahitliği (menfaat bağı nedeniyle) kabul edilmez. Ayrıca aralarında düşmanlık bulunanların birbirine şahitliği geçersizdir.",
+        "Şahit Sayısı: Zina dışında kalan hukuki meselelerde iki erkek veya bir erkek iki kadın şahit gereklidir. Sadece kadınların bilebileceği hallerde (doğum vb.) tek kadının şahitliği yeterli görülebilir."
+      ]
+    },
+    {
+      "baslik": "Dava Usulü ve İspat",
+      "maddeler": [
+        "Müddâî ve Müddââ-aleyh: 'Beyyine (delil) iddia eden üzerinedir, yemin ise inkar eden üzerinedir.' İlkesi gereği, davacı iddiasını ispatla, davalı ise ispat yoksa yeminle mükelleftir.",
+        "İkrar: Kişinin kendi aleyhindeki beyanı en kuvvetli delildir. Ancak ikrarın baskı altında değil, hür iradeyle yapılması şarttır.",
+        "Yeminden Kaçınma (Nükûl): Davalının kendisine teklif edilen yeminden kaçınması, Hanefi fıkhında iddiayı zımnen kabul etmiş sayılmasına neden olabilir."
+      ]
+    }
+  ]
+}
+  ]
+}
