@@ -204,7 +204,7 @@
       "maddeler": [
         "İcap ve Kabul: Akdin kurulması için tarafların karşılıklı rızalarını beyan etmeleridir. 'Sattım' ve 'Aldım' gibi geçmiş zaman kipi kullanımı hukuki kesinlik sağlar.",
         "Fâsid ve Bâtıl Akitler: Temel rükünleri eksik olan akit 'bâtıl' (geçersiz), rükünleri tam ama vasfında hata olan akit 'fâsid' (düzeltilmesi gereken) kabul edilir.",
-        "Muhayyerlik (Vazgeçme Hakkı): Alıcının malı gördüğünde (Gürme Muhayyerliği) veya malda bir kusur çıktığında (Ayıp Muhayyerliği) akdi tek taraflı feshetme yetkisi vardır."
+        "Muhayyerlik (Vazgeçme Hakkı): Alıcının malı gördüğünde (Görme Muhayyerliği) veya malda bir kusur çıktığında (Ayıp Muhayyerliği) akdi tek taraflı feshetme yetkisi vardır."
       ]
     },
     {
@@ -368,7 +368,7 @@
   ]
 },
     {
-  "bolum": "YARGILAMA VE ŞAHİTLİK - TEFERRUATLI",
+  "bolum": "YARGILAMA VE ŞAHİTLİK",
   "sayfa": 1380,
   "alt_konular": [
     {
